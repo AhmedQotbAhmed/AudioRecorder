@@ -6,6 +6,7 @@ Project descriptionRecorder app is a simple app that has two features recording 
 Players features.
 
 Technology Used:
+
 ● MediaRecorder
 ● Fragment
 ● RecyclerView
